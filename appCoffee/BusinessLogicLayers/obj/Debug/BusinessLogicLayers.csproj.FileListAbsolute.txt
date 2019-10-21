@@ -1,0 +1,9 @@
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\bin\Debug\BusinessLogicLayers.dll
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\bin\Debug\BusinessLogicLayers.pdb
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\bin\Debug\DataAccessLayer.dll
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\bin\Debug\DataAccessLayer.pdb
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.csprojResolveAssemblyReference.cache
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.csproj.CoreCompileInputs.cache
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.csproj.CopyComplete
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.dll
+D:\Phân tích và thiết kế hệ thống thông tin\appCoffee\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.pdb
